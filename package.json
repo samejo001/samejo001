@@ -1,0 +1,13 @@
+{
+  "name": "samejo001",
+  "version": "1.0.0",
+  "description": "👨‍💻 Computer Science student with a strong interest in software development and problem-solving.<br><br>🔭 I’m currently working on strengthening my programming fundamentals and building academic and personal projects.<br>🤝 I’m looking to collaborate on beginner-to-intermediate level projects related to C++ and basic software development.<br>🌱 I’m currently learning data structures, algorithms, and clean coding practices.<br>💬 Ask me about C++, programming fundamentals, and logical problem solving.<br>⚡ Fun fact: I believe consistency and practice matter more than talent in programming.<br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
